@@ -1,0 +1,16 @@
+# Backend (Spring Boot)
+fileUpload_Backend/target
+fileUpload_Backend/*.log
+
+# Frontend (React/Node)
+fileUpload_Frontend/node_modules
+fileUpload_Frontend/build
+fileUpload_Frontend/.env
+
+# IDEs
+*.iml
+/.idea
+/.vscode
+/.settings
+/.classpath
+/.project
